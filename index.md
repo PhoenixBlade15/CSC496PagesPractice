@@ -1,3 +1,3 @@
-{{range .Resources.Match "images/*" }}
+{{range .Resources.Match ".images/*" }}
 		<img src="{{ .RelPermalink }}"  /> 
 {{ end }}
