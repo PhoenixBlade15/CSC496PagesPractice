@@ -1,4 +1,5 @@
 ![Image](images/5950xReference6700XTBenchmarkBorderlands3.png)
+<img src="images/5950xReference6700XTBenchmarkBorderlands3.png">
 ![Image](images/5950xSapphire6700XTBenchmarkBorderlands3.png)
 ![Image](images/5950xReference6700XTBenchmarkFarCry5.png)
 ![Image](images/5950xSapphire6700XTBenchmarkFarCry5.png)
