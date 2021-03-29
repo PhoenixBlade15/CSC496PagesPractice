@@ -1,3 +1,8 @@
-{{range .Resources.Match ".images/*" }}
-		<img src="{{ .RelPermalink }}"  /> 
-{{ end }}
+![Image](images/5950xReference6700XTBenchmarkBorderlands3)
+![Image](images/5950xSapphire6700XTBenchmarkBorderlands3)
+![Image](images/5950xReference6700XTBenchmarkFarCry5)
+![Image](images/5950xSapphire6700XTBenchmarkFarCry5)
+![Image](images/5950xReference6700XTBenchmarkHorizonZeroDawn)
+![Image](images/5950xSapphire6700XTBenchmarkHorizonZeroDawn)
+![Image](images/5950xReference6700XTBenchmarkSOTTR)
+![Image](images/5950xSapphire6700XTBenchmarkSOTTR)
